@@ -11,9 +11,7 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I am a detail-oriented full-stack developer focused on building scalable, efficient, and user-centric web applications.
-    Bridging the gap between robust backend architectures and dynamic frontend interfaces, I am specialized in delivering 
-    comprehensive digital solutions from concept to deployment.
+    "I am a full-stack developer dedicated to building high-performance web applications using Python and JavaScript. With a focus on creating scalable backend systems and responsive user interfaces, I specialize in transforming complex requirements into functional, end-to-end digital solutions."
   </p>
 
   <p>
