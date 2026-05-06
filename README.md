@@ -12,7 +12,8 @@
 
   <p>
     I am a detail-oriented full-stack developer focused on building scalable, efficient, and user-centric web applications.
-    Bridging the gap between robust backend architectures and dynamic frontend interfaces, I specialize in delivering comprehensive digital solutions from concept to deployment.
+    Bridging the gap between robust backend architectures and dynamic frontend interfaces, I am specialized in delivering 
+    comprehensive digital solutions from concept to deployment.
   </p>
 
   <p>
